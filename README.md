@@ -1,2 +1,2 @@
 # .github
-💛 Amberflag - Featru
+💛 Amberflag - Feature Flag management
